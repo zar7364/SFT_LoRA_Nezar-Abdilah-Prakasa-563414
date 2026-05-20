@@ -10,4 +10,4 @@ Spesifikasi
 4. Framework: Transformers, TRL, PEFT
 5. Training: Google Colab T4 GPU
 
-Model setelah fine-tuning menghasilkan respons yang lebih relevan dan lebih focus dalam membahas topik yang ada dibandingkan base model.
+Model setelah fine-tuning menghasilkan respons yang lebih relevan dan lebih fokus dalam membahas topik yang ada dibandingkan base model.
