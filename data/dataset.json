@@ -1,0 +1,1190 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun nasi goreng?"
+      },
+      {
+        "role": "assistant",
+        "content": "Panaskeun minyak heula, tuluy tumis bawang jeung cabe nepi ka seungit. Sanggeus éta asupkeun sangu sarta kecap secukupna."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun seblak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kerupuk direndem heula, tuluy dimasak jeung bawang, cabe, jeung kencur supaya rasa leuwih nikmat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun lotek?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sayuran direbus tuluy dicampur jeung sambel kacang sarta kerupuk."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun batagor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Adonan tahu jeung lauk digoreng nepi ka asak tuluy disiram sambel kacang."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun mie goreng?"
+      },
+      {
+        "role": "assistant",
+        "content": "Mie direbus heula tuluy digoreng jeung bawang, kecap, jeung sayuran."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari budaya Sunda?"
+      },
+      {
+        "role": "assistant",
+        "content": "Budaya Sunda mangrupakeun adat jeung kabiasaan masarakat Sunda anu ngajunjung sopan santun."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari gotong royong?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gotong royong nyaéta budaya silih bantu antar warga pikeun kapentingan babarengan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat olahraga?"
+      },
+      {
+        "role": "assistant",
+        "content": "Olahraga ngabantu ngajaga kasehatan awak jeung ningkatkeun daya tahan tubuh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara diajar anu efektif?"
+      },
+      {
+        "role": "assistant",
+        "content": "Diajar anu efektif bisa ku nyieun jadwal rutin jeung fokus kana materi."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon pentingna silaturahmi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Silaturahmi penting pikeun ngajaga hubungan hadé jeung kulawarga atawa rerencangan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Caritakeun legenda Sangkuriang."
+      },
+      {
+        "role": "assistant",
+        "content": "Sangkuriang mangrupakeun legenda Sunda ngeunaan anak anu teu sadar bogoh ka indungna sorangan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Caritakeun legenda Situ Bagendit."
+      },
+      {
+        "role": "assistant",
+        "content": "Situ Bagendit nyaritakeun awéwé beunghar anu pelit ka warga sabudeureunana."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga kasehatan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ngajaga kasehatan bisa ku dahar sehat, olahraga rutin, jeung cukup sare."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara hemat listrik?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pareuman alat éléktronik lamun henteu dipaké supaya hemat listrik."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon kadaharan khas Sunda?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kadaharan khas Sunda di antarana nasi timbel, peuyeum, lotek, jeung karedok."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga lingkungan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Lingkungan bisa dijaga ku henteu miceun runtah sembarangan jeung melak tatangkalan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari hormat ka kolot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hormat ka kolot nyaéta sikap sopan jeung nurut ka jalma anu leuwih sepuh."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga kabersihan imah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Imah dijaga bersih ku rutin nyapu, ngepel, jeung miceun runtah dina tempatna."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari kasehatan mental?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kasehatan mental nyaéta kaayaan pikiran anu tenang jeung stabil."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara jadi disiplin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jadi disiplin bisa dimimitian ku ngahargaan waktu jeung ngalaksanakeun jadwal rutin."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun karedok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sayuran atah dicampur jeung sambel kacang nepi ka rata sarta siap didahar."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon pentingna pendidikan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pendidikan penting pikeun nambahan élmu jeung ngabantu ngahontal cita-cita."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga babaturan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Babaturan dijaga ku silih hormat, jujur, jeung saling ngabantu."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat maca buku?"
+      },
+      {
+        "role": "assistant",
+        "content": "Maca buku bisa nambahan wawasan jeung ningkatkeun kamampuhan mikir."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun sambel?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cabe, bawang, jeung uyah diuleg nepi ka lemes supaya rasa leuwih nikmat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari sopan santun?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sopan santun nyaéta sikap hormat jeung hadé ka jalma séjén."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga waktu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Waktu dijaga ku nyieun jadwal jeung henteu ngalakukeun hal anu teu penting."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat sare cukup?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sare cukup ngabantu awak tetep séhat jeung pikiran leuwih fokus."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun teh manis?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cai dipanaskeun heula, tuluy asupkeun teh jeung gula secukupna."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari tanggung jawab?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tanggung jawab nyaéta kasadaran pikeun ngalaksanakeun kawajiban kalayan hadé."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga kebersihan sakola?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kabersihan sakola dijaga ku miceun runtah dina tempatna jeung rutin beberesih."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat cai bodas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Cai bodas ngabantu ngajaga cairan awak jeung ngajadikeun awak tetep séhat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun kopi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kopi diseduh ku cai panas tuluy ditambah gula lamun dipikahayang."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari percaya diri?"
+      },
+      {
+        "role": "assistant",
+        "content": "Percaya diri nyaéta yakin kana kamampuhan diri sorangan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga hubungan kulawarga?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hubungan kulawarga dijaga ku komunikasi anu hadé jeung silih hormat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat olahraga isuk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Olahraga isuk ngajadikeun awak leuwih séhat jeung sumanget."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun jus jeruk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jeruk diperes tuluy dicampur cai jeung gula secukupna."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari kerja keras?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kerja keras nyaéta usaha anu dilakukeun kalayan serius pikeun ngahontal tujuan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga kasabaran?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kasabaran dijaga ku mikir tenang jeung henteu gampang ambek."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat dahar buah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dahar buah ngabantu ngajaga kasehatan sabab loba vitamin."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga motor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Motor dijaga ku rutin servis jeung ngaganti oli."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari jujur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jujur nyaéta nyarita jeung ngalakukeun hal anu luyu jeung kanyataan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun bubur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Béas dimasak jeung cai nepi ka lemes sarta jadi bubur."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat ngabantu batur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ngabantu batur bisa ngajaga hubungan hadé jeung ningkatkeun rasa peduli."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga laptop?"
+      },
+      {
+        "role": "assistant",
+        "content": "Laptop dijaga ku henteu dipaké kaleuleuwihan jeung rutin dibersihan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari rasa syukur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rasa syukur nyaéta ngahargaan nikmat anu geus dipiboga."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun sangu liwet?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sangu dimasak jeung santan, bawang, jeung daun salam supaya rasa leuwih nikmat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat jalan kaki?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jalan kaki ngabantu ngajaga kasehatan jantung jeung awak."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga fokus?"
+      },
+      {
+        "role": "assistant",
+        "content": "Fokus dijaga ku nyingkahan gangguan jeung konsentrasi kana hiji pagawean."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun cilok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tipung tapioka dicampur jeung bawang tuluy dibuleudkeun sarta direbus nepi ka asak."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat dahar sayur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dahar sayur ngabantu ngajaga kasehatan sabab loba serat jeung vitamin."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga HP?"
+      },
+      {
+        "role": "assistant",
+        "content": "HP dijaga ku henteu dipaké kaleuleuwihan jeung rutin ngecas kalayan bener."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari disiplin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Disiplin nyaéta kabiasaan nurut kana aturan jeung tanggung jawab."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun gorengan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Adonan tipung jeung bahan séjén digoreng dina minyak panas nepi ka asak."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon pentingna hemat cai?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hemat cai penting supaya sumber cai tetep aya pikeun kahirupan sapopoe."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga hubungan jeung tatangga?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hubungan jeung tatangga dijaga ku silih hormat jeung silih bantu."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat diajar unggal poé?"
+      },
+      {
+        "role": "assistant",
+        "content": "Diajar unggal poé ngabantu ningkatkeun élmu jeung kamampuhan diri."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun opak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Béas diolah jadi adonan tuluy dijemur sarta dipanggang nepi ka garing."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari rendah hati?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rendah hati nyaéta henteu sombong sanajan miboga kaunggulan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga kaséhatan panon?"
+      },
+      {
+        "role": "assistant",
+        "content": "Panon dijaga ku henteu ningali layar teuing lila jeung cukup istirahat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat ngabersihan imah?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ngabersihan imah ngajadikeun lingkungan leuwih séhat jeung nyaman."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun peuyeum?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sampeu dikukus heula tuluy dibéré ragi sarta disimpen sababaraha poé."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari kerja sama?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kerja sama nyaéta ngalakukeun pagawean babarengan pikeun ngahontal tujuan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga stamina awak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Stamina dijaga ku olahraga rutin jeung dahar anu bergizi."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat nginum susu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nginum susu ngabantu ngajaga tulang jeung awak tetep séhat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun bala-bala?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sayuran dicampur jeung tipung tuluy digoreng dina minyak panas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari rasa hormat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rasa hormat nyaéta ngahargaan jeung sopan ka jalma séjén."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga pola dahar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Pola dahar dijaga ku dahar teratur jeung henteu kaleuleuwihan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat melak tangkal?"
+      },
+      {
+        "role": "assistant",
+        "content": "Melak tangkal ngabantu ngajaga lingkungan jeung ngahasilkeun hawa bersih."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun combro?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sampeu diparut tuluy dieusi oncom sarta digoreng nepi ka asak."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari rasa tanggung jawab?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rasa tanggung jawab nyaéta kasadaran pikeun ngalaksanakeun kawajiban kalayan hadé."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga hubungan jeung guru?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hubungan jeung guru dijaga ku sopan santun jeung hormat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat olahraga peuting?"
+      },
+      {
+        "role": "assistant",
+        "content": "Olahraga peuting bisa ngabantu awak leuwih rileks lamun henteu kaleuleuwihan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun colenak?"
+      },
+      {
+        "role": "assistant",
+        "content": "Peuyeum dipanggang tuluy didahar jeung gula beureum cair."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari kabersihan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kabersihan nyaéta kaayaan lingkungan anu beresih jeung séhat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga hubungan jeung adi?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hubungan jeung adi dijaga ku silih sayang jeung henteu gampang ambek."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat dahar lauk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dahar lauk ngabantu awak meunang protéin anu hadé."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun bandrek?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jahe direbus jeung gula beureum supaya ngahasilkeun inuman haneut."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari kasabaran?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kasabaran nyaéta kamampuhan nahan emosi jeung tetep tenang."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun bajigur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Santang, gula beureum, jeung jahe direbus nepi ka haneut sarta siap diinum."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat olahraga rutin?"
+      },
+      {
+        "role": "assistant",
+        "content": "Olahraga rutin ngajaga awak tetep séhat jeung kuat."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga hubungan jeung kolot?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hubungan jeung kolot dijaga ku hormat, sopan, jeung nurut."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari rasa percaya diri?"
+      },
+      {
+        "role": "assistant",
+        "content": "Percaya diri nyaéta yakin kana kamampuhan diri sorangan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun cireng?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tipung tapioka dicampur bumbu tuluy digoreng nepi ka asak."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat sare beurang?"
+      },
+      {
+        "role": "assistant",
+        "content": "Sare beurang bisa ngabantu awak leuwih seger jeung teu gampang capé."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga kabersihan kamar?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kamar dijaga bersih ku rutin beberesih jeung miceun runtah."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari kerja kelompok?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kerja kelompok nyaéta gawé babarengan pikeun ngarengsekeun tugas."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun susu jahe?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jahe direbus tuluy dicampur susu jeung gula secukupna."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat ngabersihan lingkungan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Ngabersihan lingkungan ngajaga kaséhatan jeung ngajadikeun tempat leuwih nyaman."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga kaséhatan huntu?"
+      },
+      {
+        "role": "assistant",
+        "content": "Huntu dijaga ku sikat huntu rutin jeung ngurangan kadaharan amis."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari rasa peduli?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rasa peduli nyaéta perhatian kana kaayaan jeung kabutuhan batur."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun wedang jahe?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jahe direbus jeung gula beureum nepi ka ngahasilkeun inuman haneut."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat nginum cai bodas?"
+      },
+      {
+        "role": "assistant",
+        "content": "Nginum cai bodas ngajaga awak tina kakurangan cairan."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga hubungan jeung rerencangan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hubungan jeung rerencangan dijaga ku jujur jeung silih percaya."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari rasa hormat ka guru?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rasa hormat ka guru nyaéta sikap sopan jeung ngahargaan jalma anu ngajarkeun élmu."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara nyieun es jeruk?"
+      },
+      {
+        "role": "assistant",
+        "content": "Jeruk diperes tuluy dicampur cai tiis jeung gula secukupna."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon manfaat gotong royong?"
+      },
+      {
+        "role": "assistant",
+        "content": "Gotong royong ngajadikeun pagawean leuwih hampang jeung gancang réngsé."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kumaha cara ngajaga awak tetep séhat?"
+      },
+      {
+        "role": "assistant",
+        "content": "Awak tetep séhat lamun rutin olahraga jeung dahar bergizi."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Naon ari rasa syukur?"
+      },
+      {
+        "role": "assistant",
+        "content": "Rasa syukur nyaéta ngahargaan nikmat anu geus dipiboga."
+      }
+    ]
+  }
+]
